@@ -1,5 +1,9 @@
 # SISEO Scraper and Judicial Records Dataset
 
+[![Offline tests](https://github.com/EVERYTHINGAICO/siseo-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/EVERYTHINGAICO/siseo-scraper/actions/workflows/tests.yml)
+
+![Collection and dataset workflow](docs/workflow.svg)
+
 **A research resource from [Everything AI Co](https://www.everythingaico.com/) for collecting and studying Mexican federal judicial agreements.**
 
 SISEO Scraper packages the standalone browser collector and the previously exported judicial-record dataset. Researchers can inspect the data without a Supabase account, a deployed web application, or a running scraper.
