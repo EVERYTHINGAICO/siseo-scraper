@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+browser-profile/
+perfil_*/
+resultados_sise/
+data/
+*.sqlite*
+*.log

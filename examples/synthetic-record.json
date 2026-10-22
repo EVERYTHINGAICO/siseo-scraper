@@ -1,0 +1,16 @@
+[
+  {
+    "indice": 0,
+    "numero": "1",
+    "tipo": "SYNTHETIC",
+    "expediente": "000/2099",
+    "quejoso": "SYNTHETIC EXAMPLE",
+    "autoridad": "SYNTHETIC EXAMPLE",
+    "fecha": "01/01/2099",
+    "sintesis_corta": "Synthetic record for format demonstration.",
+    "sintesis_completa": "This record is synthetic and is not an official judicial agreement.",
+    "expediente_detalle": "000/2099",
+    "fecha_acuerdo_detalle": "01/01/2099",
+    "detalle_url": "https://example.com/synthetic-record"
+  }
+]

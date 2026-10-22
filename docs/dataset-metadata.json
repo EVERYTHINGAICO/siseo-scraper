@@ -1,0 +1,51 @@
+{
+  "scraper_fechas.csv.gz": {
+    "rows": 2224,
+    "columns": [
+      "organo_id",
+      "fecha",
+      "completo",
+      "sin_acuerdos",
+      "total_acuerdos",
+      "scraped_at"
+    ],
+    "sha256": "9793681285d356935285b55930fa216fa03a4da9ef21351dddd18f7cc42dfe52"
+  },
+  "acuerdos.csv.gz": {
+    "rows": 159247,
+    "columns": [
+      "id",
+      "circuito_id",
+      "organo_id",
+      "expediente",
+      "tipo",
+      "quejoso",
+      "autoridad",
+      "fecha",
+      "fecha_busqueda",
+      "row_index",
+      "sintesis_corta",
+      "sintesis_completa",
+      "detalle_url",
+      "scraped_at"
+    ],
+    "sha256": "fe4c27ef6256029ffa3a318a1153c885c8286f91b0c7aea0ee7fcafcc8bae63d"
+  },
+  "organos.csv.gz": {
+    "rows": 981,
+    "columns": [
+      "id",
+      "circuito_id",
+      "circuito_nombre",
+      "nombre",
+      "fecha_inicio"
+    ],
+    "sha256": "0bed65c18e3c32add7be3c012db69b68b12c215136fc4a2a90870d808a2bb46c"
+  },
+  "coverage": {
+    "distinct_case_number_strings": 8034,
+    "court_bodies_with_agreements": 20,
+    "publication_date_min": "2016-01-29",
+    "publication_date_max": "2026-06-30"
+  }
+}
